@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/rodney.github.io/static/css/main.9c80c1ec.chunk.css",
+    "main.js": "/rodney.github.io/static/js/main.0a794904.chunk.js",
+    "main.js.map": "/rodney.github.io/static/js/main.0a794904.chunk.js.map",
+    "runtime-main.js": "/rodney.github.io/static/js/runtime-main.b81f25fc.js",
+    "runtime-main.js.map": "/rodney.github.io/static/js/runtime-main.b81f25fc.js.map",
+    "static/js/2.11bea408.chunk.js": "/rodney.github.io/static/js/2.11bea408.chunk.js",
+    "static/js/2.11bea408.chunk.js.map": "/rodney.github.io/static/js/2.11bea408.chunk.js.map",
+    "index.html": "/rodney.github.io/index.html",
+    "static/css/main.9c80c1ec.chunk.css.map": "/rodney.github.io/static/css/main.9c80c1ec.chunk.css.map",
+    "static/js/2.11bea408.chunk.js.LICENSE.txt": "/rodney.github.io/static/js/2.11bea408.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.8edfe59d.svg": "/rodney.github.io/static/media/arrow-left.8edfe59d.svg",
+    "static/media/arrow-right.f030f9db.svg": "/rodney.github.io/static/media/arrow-right.f030f9db.svg",
+    "static/media/curology-min.png": "/rodney.github.io/static/media/curology-min.b052d80b.png",
+    "static/media/lumin-min.png": "/rodney.github.io/static/media/lumin-min.c876698e.png",
+    "static/media/magnafund-min.png": "/rodney.github.io/static/media/magnafund-min.b43d625b.png",
+    "static/media/rodney-min.png": "/rodney.github.io/static/media/rodney-min.cbb7302c.png",
+    "static/media/rodney.png": "/rodney.github.io/static/media/rodney.cbb7302c.png",
+    "static/media/up-arrow-circle.c378eca0.svg": "/rodney.github.io/static/media/up-arrow-circle.c378eca0.svg",
+    "static/media/yourspace-min.png": "/rodney.github.io/static/media/yourspace-min.f952e744.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b81f25fc.js",
+    "static/js/2.11bea408.chunk.js",
+    "static/css/main.9c80c1ec.chunk.css",
+    "static/js/main.0a794904.chunk.js"
+  ]
+}
